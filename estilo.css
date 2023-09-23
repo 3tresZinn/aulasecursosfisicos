@@ -1,0 +1,44 @@
+.texto{
+    text-align: center;  
+    padding-left: 5%;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: #6C7A89;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1050px;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    background: #fff;
+    }
+#ed_fisica {
+    border-radius: 19px;
+    padding: 2px;
+    width: 550px;
+    height: 350px;
+    padding-left: 30%;
+}
+  #estatistica {
+    border-radius: 19px;
+    padding: 2px;
+    width: 450px;
+}
+.beneficios{
+    width: 550px;  
+}
+#obesidade{
+    border-radius: 19px;
+    padding: 2px;
+    width: 350px;
+}
+#desempenho{
+    border-radius: 19px;
+    padding: 2px;
+    width: 450px;
+}
