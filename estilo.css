@@ -25,7 +25,6 @@
     padding-left: 30%;
 }
   #estatistica {
-    border-radius: 19px;
     padding: 2px;
     width: 450px;
 }
@@ -33,12 +32,10 @@
     width: 550px;  
 }
 #obesidade{
-    border-radius: 19px;
     padding: 2px;
     width: 350px;
 }
 #desempenho{
-    border-radius: 19px;
-    padding: 1px;
+    padding-top: 1px;
     width: 150px;
 }
